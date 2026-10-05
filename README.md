@@ -30,5 +30,5 @@ Welcome to my portfolio! This repository highlights end-to-end data science and 
 ---
 
 ## 📫 Contact
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
+* **LinkedIn:** [[linkedin.com/in/yourprofile](https://linkedin.com)](https://www.linkedin.com/in/advitha-udthawar/)
 * **Email:** advithaudthawar@gmail.com
