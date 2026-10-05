@@ -6,7 +6,7 @@ Welcome to my portfolio! This repository highlights end-to-end data science and 
 
 ## 📁 Featured Projects
 
-### 🤖 [AI-Powered Data Analyst Salary Visualization](./salary-analytics-ai)
+### 🤖 [AI-Powered Data Analyst Salary Visualization]
 * **Tech Stack:** Python, Altair, GenAI, Pandas
 * **Summary:** Built an AI-driven agent that translates natural language questions into automated wage and skill visualizations across 500k+ salary records.
 * **Key Insights:** Mapped cost-of-living pay disparities across states, identified an onsite pay premium, and evaluated high-income skill correlations ($100k+ median for Python).
@@ -14,7 +14,7 @@ Welcome to my portfolio! This repository highlights end-to-end data science and 
 
 ---
 
-### 🎵 [Artist Tour Planning Analytics Dashboard](./tour-planning-dashboard)
+### 🎵 [Artist Tour Planning Analytics Dashboard]
 * **Tech Stack:** Python, Pandas, Streamlit, Plotly, Folium
 * **Summary:** Built an interactive analytics dashboard to process global streaming data and rank candidate tour cities by fan engagement metrics.
 * **Key Insights:** Identified top high-potential markets (including Stockholm, Paris, and NYC with 44–47% repeat fans) and designed geospatial density visualizations for executive decision-making.
